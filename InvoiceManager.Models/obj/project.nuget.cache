@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQpWhZWcBhlJaZvVFW9AhkiF1xUFLjHUuuFQEnKZ0sg0/MyKjrt5vw5f9fDLTbtcymgX6Bo7dRvHpQfc5GixCA==",
+  "success": true,
+  "projectFilePath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visura weerathunga\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\visura weerathunga\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\visura weerathunga\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\visura weerathunga\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

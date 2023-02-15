@@ -1,0 +1,12 @@
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\bin\Debug\net6.0\InvoiceManager.Models.deps.json
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\bin\Debug\net6.0\InvoiceManager.Models.dll
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\bin\Debug\net6.0\InvoiceManager.Models.pdb
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.csproj.AssemblyReference.cache
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.AssemblyInfoInputs.cache
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.AssemblyInfo.cs
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.csproj.CoreCompileInputs.cache
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.dll
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\refint\InvoiceManager.Models.dll
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\InvoiceManager.Models.pdb
+D:\Island\InvoiceManager\WebApplication1\InvoiceManager.Models\obj\Debug\net6.0\ref\InvoiceManager.Models.dll

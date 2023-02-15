@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.UnitTests\\InvoiceManager.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
+        "projectName": "InvoiceManager.Models",
+        "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
+        "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
+        "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj",
+        "projectName": "InvoiceManager.Repository",
+        "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj",
+        "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
+        "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.32.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
+        "projectName": "InvoiceManager.Service",
+        "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
+        "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
+        "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj"
+              },
+              "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.UnitTests\\InvoiceManager.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.UnitTests\\InvoiceManager.UnitTests.csproj",
+        "projectName": "InvoiceManager.UnitTests",
+        "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.UnitTests\\InvoiceManager.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
+        "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj"
+              },
+              "D:\\Island\\InvoiceManager\\WebApplication1\\WebApplication1\\InvoiceManager.Api.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\WebApplication1\\InvoiceManager.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Island\\InvoiceManager\\WebApplication1\\WebApplication1\\InvoiceManager.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\WebApplication1\\InvoiceManager.Api.csproj",
+        "projectName": "InvoiceManager.Api",
+        "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\WebApplication1\\InvoiceManager.Api.csproj",
+        "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
+        "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj"
+              },
+              "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj": {
+                "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
