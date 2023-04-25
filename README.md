@@ -80,6 +80,10 @@ Response body:
     "isError": false,
     "message": "Sucessfully updated invoice, invoice id : 1123"
 } 
+
+Please note that to add configurations of the azure dosmosdb in appsetting
+![image](https://user-images.githubusercontent.com/60961883/234159627-e5fbbace-1941-4efd-8537-17c70cf7254a.png)
+
 Unit Tests
 The project includes unit tests for the Repository layer using Moq. To run the tests, run dotnet test in the project directory.
 
