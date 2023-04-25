@@ -1214,11 +1214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
+      "projectUniqueName": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
       "projectName": "InvoiceManager.Service",
-      "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
+      "projectPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
       "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
-      "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\obj\\",
+      "outputPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1235,11 +1235,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
-              "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj"
+            "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
+              "projectPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj"
             },
-            "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj": {
-              "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj"
+            "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj": {
+              "projectPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj"
             }
           }
         }

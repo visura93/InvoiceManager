@@ -1195,11 +1195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj",
+      "projectUniqueName": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj",
       "projectName": "InvoiceManager.Repository",
-      "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj",
+      "projectPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Repository\\InvoiceManager.Repository.csproj",
       "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
-      "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Repository\\obj\\",
+      "outputPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1216,8 +1216,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
-              "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj"
+            "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
+              "projectPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj"
             }
           }
         }

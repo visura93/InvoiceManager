@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {}
+    "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {}
   },
   "projects": {
-    "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
+    "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
+        "projectUniqueName": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
         "projectName": "InvoiceManager.Models",
-        "projectPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
+        "projectPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\InvoiceManager.Models.csproj",
         "packagesPath": "C:\\Users\\visura weerathunga\\.nuget\\packages\\",
-        "outputPath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Models\\obj\\",
+        "outputPath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\visura weerathunga\\AppData\\Roaming\\NuGet\\NuGet.Config",

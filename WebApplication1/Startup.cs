@@ -2,6 +2,7 @@
 using InvoiceManager.Models;
 using InvoiceManager.Repository;
 using InvoiceManager.Service;
+using Microsoft.OpenApi.Models;
 
 namespace InvoiceManager.Api
 {
@@ -31,6 +32,11 @@ namespace InvoiceManager.Api
 
             services.AddTransient<IInvoiceService, InvoiceService>();
             services.AddControllers();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "API", Version = "v1" });
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,6 +57,12 @@ namespace InvoiceManager.Api
             {
                 endpoints.MapControllers();
             });
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+            });
+
         }
     }
 }

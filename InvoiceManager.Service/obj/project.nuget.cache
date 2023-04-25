@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJS/4F8XLinMcogZSfRe9bOj+xGOIWPwWjivnpVwSli1I8deSKLKA64+DFycW8fTqdbr8VRaXaBq1h2brWAs8g==",
+  "dgSpecHash": "00pDoo0uv4xOkELKdLg3KfoBeQQxUVp0u/Wgidkm7qy3yhLa4dQJVpWFyBv43hIIICBEjZnCD4HIDlyuDYwCmA==",
   "success": true,
-  "projectFilePath": "D:\\Island\\InvoiceManager\\WebApplication1\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
+  "projectFilePath": "C:\\ProjectNew\\InvoiceManager\\InvoiceManager.Service\\InvoiceManager.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visura weerathunga\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\visura weerathunga\\.nuget\\packages\\microsoft.azure.cosmos\\3.32.0\\microsoft.azure.cosmos.3.32.0.nupkg.sha512",
